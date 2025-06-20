@@ -63,7 +63,7 @@ function AboutProduct() {
         <div className=" pt-16">
           <img
             className="rounded-2xl "
-            src="./assets/skin_mask.png"
+            src="./assets/skin-mask.png"
             width={"559px"}
             height={"801px"}
           />
