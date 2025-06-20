@@ -23,6 +23,4 @@ A responsive e-commerce website for luxury skincare products with premium animat
 2. Install dependencies: `npm install`
 3. Run development server: `npm run dev`
 
-## Deployment
 
-Deployed on Netlify: [https://skincare-379.netlify.app]
