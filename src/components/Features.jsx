@@ -10,7 +10,6 @@ function Features() {
         <AboutProduct />
         <BestProducts />
         <FeelBeauty />
-        
       </div>
     </>
   );

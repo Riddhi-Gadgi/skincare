@@ -19,7 +19,7 @@ function Introduction() {
         <div className="p-2 mt-6 mx-6">
           <img
             className="rounded-xl "
-            src="../../src/assets/skin_care_beauty_cosmetic_packaging_design.jpg"
+            src="./assets/skin_care_beauty_cosmetic_packaging_design.jpg"
             width={"142px"}
             height={"140px"}
           />

@@ -1,22 +1,23 @@
 import React from "react";
 import "../../src/App.css";
-import Cart from "../assets/Cart";
+import Cart from "./Cart.jsx";
+
 function FeelBeauty() {
   const products = [
     {
       name: "ALYA SKIN CLEANSER",
       price: "FROM $29.99",
-      image: "../../src/assets/p1.jpg",
+      image: "/assets/p1.jpg",
     },
     {
       name: "RITUAL OF SAKURA.",
       price: "FROM $27.99",
-      image: "../../src/assets/p2.jpg",
+      image: "/assets/p2.jpg",
     },
     {
       name: "THE BODY LOTION.",
       price: "FROM $19.99",
-      image: "../../src/assets/p3.jpg",
+      image: "/assets/p3.jpg",
     },
   ];
   return (
@@ -24,7 +25,7 @@ function FeelBeauty() {
       <div className="flex flex-col items-center p-6 rounded-lg   mt-18  w-full">
         <div className="relative w-[1028px] h-[660px] rounded-xl overflow-hidden ">
           <img
-            src="../../src/assets/cream.png"
+            src="/assets/cream.png"
             className="w-full h-full object-cover"
             alt="Product"
           />

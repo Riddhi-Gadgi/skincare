@@ -1,7 +1,7 @@
 import React from "react";
-import ShoppingBagIcon from "../assets/ShoppingBagIcon";
-import HeartIcon from "../assets/HeartIcon";
-import PersonIcon from "../assets/PersonIcon";
+import ShoppingBagIcon from "./ShoppingBagIcon";
+import HeartIcon from "./HeartIcon";
+import PersonIcon from "./PersonIcon";
 
 function Navbar() {
   return (
