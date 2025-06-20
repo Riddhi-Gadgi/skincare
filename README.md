@@ -25,4 +25,4 @@ A responsive e-commerce website for luxury skincare products with premium animat
 
 ## Deployment
 
-Deployed on Netlify: [https://skincare-7.netlify.app]
+Deployed on Netlify: [https://skincare-79.netlify.app]
